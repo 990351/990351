@@ -1,12 +1,4 @@
-## Hi there 👋
-
-<!--
-**990351/990351** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 # 💫 About Me:
+# 💫 About Me:
 Motivated IT learner focused on Cloud Computing & DevOps with hands-on practice in Linux, Bash, Git/GitHub, AWS fundamentals, CI/CD concepts and cloud-ready deployment design. Seeking an entry-level Cloud / DevOps role to apply my skills and grow in a real-time environment.
 
 
@@ -23,11 +15,4 @@ Motivated IT learner focused on Cloud Computing & DevOps with hands-on practice 
 ---
 [![](https://visitcount.itsvg.in/api?id=990351&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --> currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
